@@ -33,7 +33,7 @@
             {
                 "label": "Contact",
                 "url": "/contact/",
-                "style": "link"
+                "style": "button"
             }
         ],
         "logo_img": "images/pennarello-logo-1.svg"
